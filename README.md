@@ -1,6 +1,6 @@
 # Web-Design-Final
 
-Final Project website link -> [http://adamwk97.epizy.com/index.php](http://adamwk97.epizy.com/index.php)
+Final Project website link -> [http://adamwk97.epizy.com](http://adamwk97.epizy.com)
 
 # Reflections 
 
